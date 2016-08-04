@@ -20,7 +20,7 @@ public class Spiral {
 
 			joe.move(i);
 
-			joe.turn(360 / 3);
+			joe.turn(360 / 7);
 
 			joe.setPenWidth(i);
 		}
